@@ -61,6 +61,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BLVNMULA
 
 [Document2]
+DocumentPath=..\..\StratoChovy-EE-main (1)\StratoChovy-EE-main\StratoChovy.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVIVWBDI
+
+[Document3]
 DocumentPath=Blink_Blink_Beep_Boop.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -77,7 +94,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKKUQGOP
 
-[Document3]
+[Document4]
 DocumentPath=Battery_Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEILAIFH
 
-[Document4]
+[Document5]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYXKMGDY
 
-[Document5]
+[Document6]
 DocumentPath=SD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCOLLMGL
 
-[Document6]
+[Document7]
 DocumentPath=SAMD51.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UITAGMKQ
 
-[Document7]
+[Document8]
 DocumentPath=SSI.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,23 +178,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document8]
-DocumentPath=StratoChovy.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JVIVWBDI
 
 [Document9]
 DocumentPath=GPS.SchDoc
