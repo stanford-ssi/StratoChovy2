@@ -44,6 +44,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Stratochovy2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLVNMULA
+
+[Document2]
 DocumentPath=Blink_Blink_Beep_Boop.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -60,7 +77,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKKUQGOP
 
-[Document2]
+[Document3]
 DocumentPath=Battery_Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -77,7 +94,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEILAIFH
 
-[Document3]
+[Document4]
 DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYXKMGDY
 
-[Document4]
+[Document5]
 DocumentPath=SD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCOLLMGL
 
-[Document5]
+[Document6]
 DocumentPath=SAMD51.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UITAGMKQ
 
-[Document6]
+[Document7]
 DocumentPath=SSI.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=StratoChovy.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVIVWBDI
 
-[Document8]
+[Document9]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVINDGNT
 
-[Document9]
+[Document10]
 DocumentPath=StratoChovy.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -196,7 +213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNCEOBHO
 
-[Document10]
+[Document11]
 DocumentPath=Radio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQFFNJBA
 
-[Document11]
+[Document12]
 DocumentPath=COTS_Altimeter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -230,7 +247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVJMXNOT
 
-[Document12]
+[Document13]
 DocumentPath=LevelShifter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,7 +264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJIFQXQF
 
-[Document13]
+[Document14]
 DocumentPath=MC33797.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMDRKERG
 
-[Document14]
+[Document15]
 DocumentPath=Radio.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=StratoChovy.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,7 +315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=LevelShifter.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -315,7 +332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=MC33797.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,7 +349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=Sensors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -349,7 +366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=SD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,7 +383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=GPS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
